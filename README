@@ -8,3 +8,6 @@ bootstrap.py will download setuptools and buildout into the eggs directory
 and will create a script called bin/buildout which contains those eggs plus the 
 version of python that you used to run bootstrap
 
+
+Get the development verison of SqlAlchemy and add to dependencies
+hg clone http://hg.sqlalchemy.org/sqlalchemy

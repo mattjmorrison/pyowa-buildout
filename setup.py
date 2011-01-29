@@ -9,7 +9,7 @@ setup(
     package_dir={'':'src'},
     packages=('sample',),
     install_requires = (
-        'sqlalchemy==0.5',
+        'sqlalchemy',
     ),
     entry_points = ("""
         [console_scripts]
