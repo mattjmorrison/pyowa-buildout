@@ -2,6 +2,7 @@
 *~
 *.pyc
 bin/*
+.idea/*
 eggs/*
 develop-eggs/*
 parts/*
