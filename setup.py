@@ -12,6 +12,7 @@ setup(
         
     ),
     entry_points = ("""
-        
+        [console_scripts]
+        versions=sample:show_versions
     """)
 )

@@ -1,6 +1,6 @@
 *.egg-info*
 *~
-*.py
+*.pyc
 bin/*
 eggs/*
 develop-eggs/*
