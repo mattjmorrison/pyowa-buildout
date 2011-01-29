@@ -1,0 +1,10 @@
+bootstrap.py downloads and sets up buildout in the current directory
+
+choose a python to run bootstrap.py 
+
+once you choose a python your buildout project will always use that version of python
+
+bootstrap.py will download setuptools and buildout into the eggs directory
+and will create a script called bin/buildout which contains those eggs plus the 
+version of python that you used to run bootstrap
+
